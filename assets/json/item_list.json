@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "name": "Saia midi cintura alta - Estampa de coelhinhos e fundo azul claro",
+    "image_url": "assets/images/products/001.jpg",
+    "value": 30,
+    "size": "P",
+    "profile": "@retroelis",
+    "profile_url": "assets/images/owner_photo.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Jeans 2000s - Calça jeans cintura baixa estilo flare",
+    "image_url": "assets/images/products/002.jpg",
+    "value": 10,
+    "size": "34",
+    "profile": "@retroelis",
+    "profile_url": "assets/images/owner_photo.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Vestido curto e manga curta - Off-white e estampa em azul escuro",
+    "image_url": "assets/images/products/003.jpg",
+    "value": 20,
+    "size": "P",
+    "profile": "@retroelis",
+    "profile_url": "assets/images/owner_photo.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Casaquinho de lã cinza escuro - Manga longa e gola com babados",
+    "image_url": "assets/images/products/004.jpg",
+    "value": 35,
+    "size": "P",
+    "profile": "@retroelis",
+    "profile_url": "assets/images/owner_photo.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Camisa listrada colorida – Manga longa e sem botões",
+    "image_url": "assets/images/products/005.jpg",
+    "value": 20,
+    "size": "P",
+    "profile": "@retroelis",
+    "profile_url": "assets/images/owner_photo.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Camiseta feminina cinza – Bordados de flores e pérolas ",
+    "image_url": "assets/images/products/006.jpg",
+    "value": 15,
+    "size": "P",
+    "profile": "@retroelis",
+    "profile_url": "assets/images/owner_photo.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Camiseta feminina marrom - Estampada com lantejoulas",
+    "image_url": "assets/images/products/007.jpg",
+    "value": 15,
+    "size": "P",
+    "profile": "@retroelis",
+    "profile_url": "assets/images/owner_photo.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Camiseta feminina azul - Lisa com brilhos detalhados ",
+    "image_url": "assets/images/products/008.jpg",
+    "value": 15,
+    "size": "M",
+    "profile": "@retroelis",
+    "profile_url": "assets/images/owner_photo.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Vestido curto preto tubinho - Tecido helanca, sem bojo e sem forro",
+    "image_url": "assets/images/products/009.jpg",
+    "value": 20,
+    "size": "P",
+    "profile": "@retroelis",
+    "profile_url": "assets/images/owner_photo.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Macaquinho feminino preto curto - Sem bojo",
+    "image_url": "assets/images/products/010.jpg",
+    "value": 20,
+    "size": "M",
+    "profile": "@retroelis",
+    "profile_url": "assets/images/owner_photo.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Vestido de renda preto curto - Rodado e regata",
+    "image_url": "assets/images/products/011.jpg",
+    "value": 20,
+    "size": "P",
+    "profile": "@retroelis",
+    "profile_url": "assets/images/owner_photo.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Vestido jeans curto Verão - Trança na lateral ",
+    "image_url": "assets/images/products/012.jpg",
+    "value": 20,
+    "size": "P",
+    "profile": "@retroelis",
+    "profile_url": "assets/images/owner_photo.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Regata feminina - Estampa floral verde",
+    "image_url": "assets/images/products/013.jpg",
+    "value": 20,
+    "size": "M",
+    "profile": "@retroelis",
+    "profile_url": "assets/images/owner_photo.jpg"
+  }
+]
